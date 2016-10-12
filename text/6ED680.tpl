@@ -1416,7 +1416,7 @@ script 50 mmbn1 {
 	mugshotAnimate
 		animation = 2
 	"""
-	Huh!? A landslide?
+	Huh!? A virus?
 	On opening day??
 	"""
 	mugshotAnimate
@@ -2932,7 +2932,7 @@ script 148 mmbn1 {
 	mugshotAnimate
 		animation = 2
 	"""
-	Yes ,I was a member
+	Yes,I was a member
 	at the beginning. As
 	Wily's assistant!
 	"""
@@ -3041,7 +3041,7 @@ script 149 mmbn1 {
 	mugshotAnimate
 		animation = 2
 	"""
-	Yes ,I was a member
+	Yes,I was a member
 	at the beginning. As
 	Wily's assistant!
 	"""
@@ -4926,7 +4926,7 @@ script 222 mmbn1 {
 	msgOpen
 	"""
 	A statue of a
-	squirrel. How cute
+	squirrel. How cute!
 	"""
 	keyWait
 	end
@@ -4935,7 +4935,7 @@ script 222 mmbn1 {
 }
 script 223 mmbn1 {
 	msgOpen
-	"No one is home"
+	"No one is home."
 	keyWait
 	end
 		delay = 5
@@ -4945,7 +4945,7 @@ script 224 mmbn1 {
 	msgOpen
 	"""
 	No one has lived
-	here for years
+	here for years.
 	"""
 	keyWait
 	end
@@ -4957,7 +4957,7 @@ script 225 mmbn1 {
 	"""
 	A security system
 	designed to look
-	like a doghouse
+	like a doghouse.
 	"""
 	keyWait
 	clearMsg
@@ -4965,14 +4965,14 @@ script 225 mmbn1 {
 	"""
 	It will alert you
 	of any intruders
-	in the house
+	in the house.
 	"""
 	keyWait
 	clearMsg
 		delay = 0
 	"""
 	Looks like you can
-	jack in here
+	jack in here.
 	"""
 	keyWait
 	end
@@ -4995,7 +4995,7 @@ script 227 mmbn1 {
 	"""
 	The entrance to
 	what will be the
-	new subway station
+	new subway station.
 	"""
 	keyWait
 	end

@@ -779,7 +779,7 @@ script 220 mmbn1 {
 	"""
 	Looks like it is
 	impossible to climb
-	back up the chute
+	back up the chute.
 	"""
 	keyWait
 	end
@@ -791,7 +791,7 @@ script 221 mmbn1 {
 	"""
 	A vending machine
 	used by the power
-	plant staff
+	plant staff.
 	"""
 	keyWait
 	end
@@ -847,7 +847,7 @@ script 225 mmbn1 {
 		jumpIfInRange = 224
 		jumpIfOutOfRange = continue
 	msgOpen
-	"An elevator switch"
+	"An elevator switch."
 	keyWait
 	clearMsg
 		delay = 0

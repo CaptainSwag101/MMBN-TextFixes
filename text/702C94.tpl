@@ -1110,7 +1110,7 @@ script 220 mmbn1 {
 	msgOpen
 	"""
 	The door is locked
-	and won't open
+	and won't open.
 	"""
 	keyWait
 	end

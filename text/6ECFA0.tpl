@@ -46,9 +46,9 @@ script 2 mmbn1 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	A time recorder
+	A time recorder.
 	You need an
-	ID card
+	ID card.
 	"""
 	keyWait
 	end
@@ -64,7 +64,7 @@ script 3 mmbn1 {
 	"""
 	A time recorder.
 	You need an
-	ID card
+	ID card.
 	"""
 	keyWait
 	clearMsg

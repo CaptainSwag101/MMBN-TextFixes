@@ -2539,7 +2539,7 @@ script 220 mmbn1 {
 	"""
 	The lunches smell
 	great. You can jack
-	in here
+	in here.
 	"""
 	keyWait
 	end
@@ -2550,14 +2550,14 @@ script 221 mmbn1 {
 	msgOpen
 	"""
 	Fresh fish are
-	on display
+	on display.
 	"""
 	keyWait
 	clearMsg
 		delay = 0
 	"""
 	The cart has a
-	jack in port
+	jack in port.
 	"""
 	keyWait
 	end

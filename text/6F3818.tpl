@@ -740,7 +740,7 @@ script 220 mmbn1 {
 	msgOpen
 	"""
 	Greenery really
-	helps me to relax
+	helps me to relax.
 	"""
 	keyWait
 	end
@@ -751,7 +751,7 @@ script 221 mmbn1 {
 	msgOpen
 	"""
 	That sofa looks
-	mighty comfortable
+	mighty comfortable.
 	"""
 	keyWait
 	end
@@ -763,7 +763,7 @@ script 222 mmbn1 {
 	"""
 	Mayl's piano.
 	Looks like you
-	can jack in here
+	can jack in here.
 	"""
 	keyWait
 	end
@@ -775,7 +775,7 @@ script 223 mmbn1 {
 	"""
 	It would be rude
 	to open someone
-	else's refrigerator
+	else's refrigerator.
 	"""
 	keyWait
 	end
@@ -793,7 +793,7 @@ script 224 mmbn1 {
 		delay = 0
 	"""
 	doesn't have a
-	jack in port
+	jack in port.
 	"""
 	keyWait
 	end

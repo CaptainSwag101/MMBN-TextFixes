@@ -9,8 +9,8 @@ script 0 mmbn1 {
 	mugshotAnimate
 		animation = 2
 	"""
-	You're late!
-	It's all over...
+	Well,well. Look
+	who showed up...
 	"""
 	mugshotAnimate
 		animation = 1
@@ -185,7 +185,7 @@ script 9 mmbn1 {
 		animation = 2
 	"""
 	How can you say
-	that...
+	that?!
 	"""
 	mugshotAnimate
 		animation = 1
@@ -195,7 +195,7 @@ script 9 mmbn1 {
 	mugshotAnimate
 		animation = 2
 	"""
-	After so many people
+	So many people
 	have suffered 
 	because of them!
 	"""
@@ -219,7 +219,7 @@ script 10 mmbn1 {
 	mugshotAnimate
 		animation = 2
 	"""
-	Load Chaud,you
+	Lord Chaud,you
 	have mail from HQ.
 	"""
 	mugshotAnimate
@@ -335,8 +335,8 @@ script 14 mmbn1 {
 	mugshotAnimate
 		animation = 2
 	"""
-	As you say,Load
-	Chaud!
+	As you wish,
+	Lord Chaud!
 	"""
 	mugshotAnimate
 		animation = 1

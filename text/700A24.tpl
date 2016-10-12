@@ -1515,7 +1515,7 @@ script 220 mmbn1 {
 	"""
 	Every vending
 	machine seems to
-	have different sodas
+	have different sodas.
 	"""
 	keyWait
 	end
@@ -1526,7 +1526,7 @@ script 221 mmbn1 {
 	msgOpen
 	"""
 	Only staff are
-	allowed in here
+	allowed in here.
 	"""
 	keyWait
 	end
@@ -1543,7 +1543,7 @@ script 222 mmbn1 {
 	"""
 	A water cooler.
 	It has a jack in
-	port
+	port.
 	"""
 	keyWait
 	end
@@ -1555,7 +1555,7 @@ script 223 mmbn1 {
 	"It's a water cooler."
 	waitSkip
 		frames = 30
-	"\nBut with no water"
+	"\nBut with no water."
 	keyWait
 	end
 		delay = 0
@@ -1565,7 +1565,7 @@ script 224 mmbn1 {
 	msgOpen
 	"""
 	Someone has bought
-	all of the drinks
+	all of the drinks.
 	"""
 	keyWait
 	end

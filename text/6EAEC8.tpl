@@ -418,7 +418,7 @@ script 31 mmbn1 {
 	"""
 	
 	The 1st graders
-	have gone home
+	have gone home.
 	"""
 	keyWait
 	end

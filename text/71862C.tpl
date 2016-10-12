@@ -2836,7 +2836,7 @@ script 247 mmbn1 {
 	"""
 	Battery box
 	rewired to new
-	configuration
+	configuration.
 	"""
 	keyWait
 	end

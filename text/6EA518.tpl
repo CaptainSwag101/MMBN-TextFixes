@@ -23,7 +23,10 @@ script 5 mmbn1 {
 	msgOpen
 	mugshotAnimate
 		animation = 2
-	"Me? I'm a 1st grader"
+    """
+	Me? I'm just a
+    1st grader.
+    """
 	mugshotAnimate
 		animation = 1
 	waitSkip

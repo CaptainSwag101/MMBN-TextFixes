@@ -1598,7 +1598,7 @@ script 220 mmbn1 {
 	"""
 	Lots of comic books
 	are lined up here.
-	Some adult ones,too
+	Some adult ones,too.
 	"""
 	keyWait
 	end
@@ -1608,9 +1608,9 @@ script 220 mmbn1 {
 script 221 mmbn1 {
 	msgOpen
 	"""
-	If you open this
-	door all the stuff
-	inside will fall out
+	If you open the door
+	all the stuff inside
+	will fall out.
 	"""
 	keyWait
 	end
@@ -1621,7 +1621,7 @@ script 222 mmbn1 {
 	msgOpen
 	"""
 	Mostly filled with
-	old candy wrappers
+	old candy wrappers.
 	"""
 	keyWait
 	end
@@ -1632,7 +1632,7 @@ script 223 mmbn1 {
 	msgOpen
 	"""
 	You can see
-	ACDC Town
+	ACDC Town.
 	"""
 	keyWait
 	end
@@ -1644,7 +1644,7 @@ script 224 mmbn1 {
 	"""
 	The latest in game
 	machines. You can
-	jack in to it
+	jack in to it.
 	"""
 	keyWait
 	end

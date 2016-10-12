@@ -23,8 +23,8 @@ script 1 mmbn1 {
 		animation = 2
 	"""
 	I wonder why you can
-	jack into some
-	machines but not all
+	only jack into some
+	machines...?
 	"""
 	mugshotAnimate
 		animation = 1

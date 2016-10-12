@@ -38,9 +38,27 @@ script 0 mmbn1 {
 	mugshotAnimate
 		animation = 2
 	"""
-	Looks like there was
-	a landslide,and
-	we can't run!
+	A virus has infected
+	the safety program!
+	"""
+    keyWait
+	clearMsg
+		delay = 0
+    mugshotAnimate
+		animation = 2
+    """
+	All the trains think
+    think there's a
+    landslide...
+	"""
+    keyWait
+	clearMsg
+		delay = 0
+    mugshotAnimate
+		animation = 2
+    """
+	So they won't
+    move at all!
 	"""
 	mugshotAnimate
 		animation = 1
@@ -119,7 +137,7 @@ script 4 mmbn1 {
 		animation = 2
 	"""
 	Did you hear about
-	the landslide?
+	the Metro virus?
 	"""
 	mugshotAnimate
 		animation = 1
@@ -151,7 +169,7 @@ script 4 mmbn1 {
 	mugshotAnimate
 		animation = 2
 	"""
-	A landslide...
+	A virus...
 	And on opening day!
 	"""
 	mugshotAnimate
@@ -2309,7 +2327,7 @@ script 220 mmbn1 {
 	"""
 	Please place used
 	magazines and papers
-	in this box
+	in this box.
 	"""
 	keyWait
 	clearMsg
@@ -2328,7 +2346,7 @@ script 221 mmbn1 {
 	msgOpen
 	"""
 	Several posters are
-	up here
+	up here.
 	"""
 	keyWait
 	end

@@ -1241,7 +1241,7 @@ script 220 mmbn1 {
 	msgOpen
 	"""
 	Lots of trash is
-	thrown away here
+	thrown away here.
 	"""
 	keyWait
 	end
@@ -1253,7 +1253,7 @@ script 221 mmbn1 {
 	"""
 	This escalator only
 	goes down. You can't
-	exit here
+	exit here.
 	"""
 	keyWait
 	end
@@ -1265,7 +1265,7 @@ script 222 mmbn1 {
 	"""
 	It's small,but has
 	lots of stuff for
-	sale
+	sale.
 	"""
 	keyWait
 	end

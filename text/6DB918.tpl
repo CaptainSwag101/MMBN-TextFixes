@@ -63,9 +63,9 @@ script 1 mmbn1 {
 	mugshotAnimate
 		animation = 2
 	"""
-	So this is what the
-	inside of one of
-	these things is like
+	So this is what
+	these things look
+	like on the inside.
 	"""
 	mugshotAnimate
 		animation = 1

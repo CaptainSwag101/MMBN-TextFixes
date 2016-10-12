@@ -47,7 +47,7 @@ script 10 mmbn1 {
 	keyWait
 	clearMsg
 		delay = 0
-	"Access denied"
+	"Access denied."
 	keyWait
 	end
 		delay = 0
@@ -58,7 +58,7 @@ script 11 mmbn1 {
 	"""
 	It says,
 	“Sal's link required
-	 for access“
+	 for access.“
 	"""
 	keyWait
 	clearMsg
@@ -106,12 +106,12 @@ script 12 mmbn1 {
 	"""
 	It says,
 	“Miyu's link
-	required for access“
+	required for access.“
 	"""
 	keyWait
 	clearMsg
 		delay = 0
-	"Access denied"
+	"Access denied."
 	keyWait
 	end
 		delay = 0
@@ -122,7 +122,7 @@ script 13 mmbn1 {
 	"""
 	It says,
 	“Miyu's link
-	required for access“
+	required for access.“
 	"""
 	keyWait
 	clearMsg
@@ -174,7 +174,7 @@ script 14 mmbn1 {
 	"""
 	If you keep winding
 	up from here,you'll
-	see the Metroline
+	see the Metroline.
 	"""
 	keyWait
 	clearMsg
@@ -268,9 +268,9 @@ script 15 mmbn1 {
 	mugshotAnimate
 		animation = 2
 	"""
-	But,you will have to
-	have a link to
-	access some areas.
+	But,you'll need
+	a link to access
+	some areas.
 	"""
 	mugshotAnimate
 		animation = 1

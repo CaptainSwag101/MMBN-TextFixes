@@ -26,9 +26,8 @@ script 1 mmbn1 {
 	mugshotAnimate
 		animation = 2
 	"""
-	Geez,
-	all the trouble I
-	go through...
+	Are you okay,
+    Mayl?
 	"""
 	mugshotAnimate
 		animation = 1
@@ -46,7 +45,10 @@ script 2 mmbn1 {
 	msgOpen
 	mugshotAnimate
 		animation = 2
-	"Now Lan,be nice!"
+    """
+	Yeah,that was
+    pretty tense...
+    """
 	mugshotAnimate
 		animation = 1
 	keyWait
@@ -61,7 +63,7 @@ script 3 mmbn1 {
 	msgOpen
 	mugshotAnimate
 		animation = 2
-	"No,Lan's right."
+	"Yes,I'm fine."
 	mugshotAnimate
 		animation = 1
 	waitSkip
@@ -104,9 +106,9 @@ script 4 mmbn1 {
 	mugshotAnimate
 		animation = 2
 	"""
-	What's the
-	big idea coming up
-	close like that!
+	Don't get so close!
+    You're making me
+    nervous...
 	"""
 	mugshotAnimate
 		animation = 1

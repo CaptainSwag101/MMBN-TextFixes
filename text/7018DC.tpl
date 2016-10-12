@@ -1797,7 +1797,7 @@ script 224 mmbn1 {
 	"""
 	There doesn't seem
 	to be anything else
-	in there
+	in there.
 	"""
 	keyWait
 	end
@@ -1809,7 +1809,7 @@ script 225 mmbn1 {
 	"""
 	The staff roster is
 	posted here.Everyone
-	is here today
+	is here today.
 	"""
 	keyWait
 	end

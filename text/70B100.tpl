@@ -905,7 +905,7 @@ script 220 mmbn1 {
 		delay = 0
 	"""
 	is still surrounded
-	by water
+	by water.
 	"""
 	keyWait
 	end
@@ -925,7 +925,7 @@ script 221 mmbn1 {
 	"""
 	is burned in the
 	power plant to
-	create electricity
+	create electricity.
 	"""
 	keyWait
 	end
@@ -937,7 +937,7 @@ script 222 mmbn1 {
 	"""
 	All of the drinks
 	in this machine look
-	quite tasty
+	quite tasty.
 	"""
 	keyWait
 	end

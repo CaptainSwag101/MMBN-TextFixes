@@ -9,7 +9,7 @@ script 0 mmbn1 {
 	mugshotAnimate
 		animation = 2
 	"""
-	That room is class B
+	That room's class B.
 	Aren't you in
 	class A?
 	"""
@@ -119,7 +119,7 @@ script 10 mmbn1 {
 	mugshotAnimate
 		animation = 2
 	"""
-	Huh? We can go
+	Oh,hey! We can go
 	downstairs now!
 	You beat me again!
 	"""
@@ -300,8 +300,8 @@ script 25 mmbn1 {
 	mugshotAnimate
 		animation = 2
 	"""
-	What? A landslide
-	on the tracks?
+	What? A virus
+	infected the Metro?
 	"""
 	mugshotAnimate
 		animation = 1
@@ -387,8 +387,8 @@ script 30 mmbn1 {
 		animation = 2
 	"""
 	But there's no
-	water,so you can't
-	use it.
+	water,so I can't
+	use it anyway.
 	"""
 	mugshotAnimate
 		animation = 1
@@ -413,8 +413,8 @@ script 31 mmbn1 {
 	mugshotAnimate
 		animation = 2
 	"""
-	But you can't use it
-	There's no water!
+	But there's no water,
+    so I can't use it!
 	"""
 	mugshotAnimate
 		animation = 1
@@ -1118,8 +1118,8 @@ script 220 mmbn1 {
 script 221 mmbn1 {
 	msgOpen
 	"""
-	Looks like there's
-	nothing else there
+	There's nothing
+	else there...
 	"""
 	keyWait
 	end

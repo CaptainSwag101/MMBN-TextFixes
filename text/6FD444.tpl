@@ -1478,7 +1478,7 @@ script 68 mmbn1 {
 	mugshotAnimate
 		animation = 2
 	"""
-	All of this Hmmming
+	Darn,saying "Hmmmm"
 	isn't helping me
 	at all!
 	"""
@@ -2482,8 +2482,8 @@ script 220 mmbn1 {
 	msgOpen
 	"""
 	If you need an
-	appointment,please
-	write your name here
+	appointment,write
+	your name here.
 	"""
 	keyWait
 	end
@@ -2499,7 +2499,7 @@ script 221 mmbn1 {
 	msgOpen
 	"""
 	There are many kinds
-	of drinks inside
+	of drinks inside.
 	"""
 	keyWait
 	end
@@ -2511,7 +2511,7 @@ script 222 mmbn1 {
 	"""
 	A broken vending
 	machine. You can
-	jack in here
+	jack in here.
 	"""
 	keyWait
 	end
@@ -2522,7 +2522,7 @@ script 223 mmbn1 {
 	msgOpen
 	"""
 	Only staff members
-	are allowed in here
+	are allowed in here.
 	"""
 	keyWait
 	end
@@ -2534,14 +2534,14 @@ script 224 mmbn1 {
 	"""
 	A test pattern is
 	shown,and it makes
-	a beeping sound
+	a beeping sound.
 	"""
 	keyWait
 	clearMsg
 		delay = 0
 	"""
 	Watching this makes
-	you a little sad
+	you a little sad.
 	"""
 	keyWait
 	end
@@ -2552,7 +2552,7 @@ script 225 mmbn1 {
 	msgOpen
 	"""
 	Posters with no
-	obvious meaning
+	obvious meaning.
 	"""
 	keyWait
 	end
@@ -2563,7 +2563,7 @@ script 226 mmbn1 {
 	msgOpen
 	"""
 	Please only smoke
-	in the smoking area
+	in the smoking area.
 	"""
 	keyWait
 	end
@@ -2574,7 +2574,8 @@ script 227 mmbn1 {
 	msgOpen
 	"""
 	Someone has bought
-	all of the drinks
+	all of the drinks.
+    Big surprise,right?
 	"""
 	keyWait
 	end
@@ -2589,7 +2590,7 @@ script 229 mmbn1 {
 	"""
 	This TV doesn't
 	seem to have a
-	jack in port
+	jack in port.
 	"""
 	keyWait
 	end

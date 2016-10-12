@@ -149,7 +149,7 @@ script 3 mmbn1 {
 		delay = 0
 	"""
 	The reasons for this
-	rise are as yet 
+	rise are currently 
 	unknown.
 	"""
 	keyWait
@@ -206,16 +206,25 @@ script 5 mmbn1 {
 script 6 mmbn1 {
 	msgOpenQuick
 	"""
-	Hard times get worse
-	as people faint from
-	lack of water.
+	Water has returned
+    to ACDC,but now
+    many people are
 	"""
 	keyWait
 	clearMsg
 		delay = 0
 	"""
-	Remember,don't drink
-	tainted water!
+    becoming sick! It
+    seems the water is
+    contaminated!
+    """
+	keyWait
+	clearMsg
+		delay = 0
+	"""
+	Don't drink the
+    water until it's
+    clean again!
 	"""
 	keyWait
 	clearMsg
@@ -1328,7 +1337,7 @@ script 30 mmbn1 {
 	msgOpenQuick
 	"""
 	That was a pretty
-	long power out. Is
+	long blackout. Is
 	everything OK?
 	"""
 	keyWait

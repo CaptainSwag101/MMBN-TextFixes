@@ -5,7 +5,7 @@ script 0 mmbn1 {
 	msgOpen
 	"""
 	This door is
-	passcode protected
+	passcode protected.
 	"""
 	keyWait
 	clearMsg
@@ -13,7 +13,7 @@ script 0 mmbn1 {
 	"""
 	Door will not open
 	without proper
-	authorization
+	authorization.
 	"""
 	keyWait
 	clearMsg
@@ -21,7 +21,7 @@ script 0 mmbn1 {
 	"""
 	Hint: Number of
 	doors in this
-	school
+	school.
 	"""
 	keyWait
 	clearMsg
@@ -137,7 +137,7 @@ script 5 mmbn1 {
 	msgOpen
 	"""
 	This door is
-	passcode protected
+	passcode protected.
 	"""
 	keyWait
 	clearMsg
@@ -145,7 +145,7 @@ script 5 mmbn1 {
 	"""
 	Door will not open
 	without proper
-	authorization
+	authorization.
 	"""
 	keyWait
 	clearMsg
@@ -228,7 +228,7 @@ script 7 mmbn1 {
 	msgOpen
 	"""
 	This door is
-	passcode protected
+	passcode protected.
 	"""
 	keyWait
 	clearMsg
@@ -236,7 +236,7 @@ script 7 mmbn1 {
 	"""
 	Door will not open
 	without proper
-	authorization
+	authorization.
 	"""
 	keyWait
 	clearMsg
@@ -363,7 +363,7 @@ script 10 mmbn1 {
 		track = 108
 	"""
 	Passcode too low.
-	Access denied
+	Access denied.
 	"""
 	keyWait
 	clearMsg
@@ -383,7 +383,7 @@ script 11 mmbn1 {
 		track = 108
 	"""
 	Passcode too high.
-	Access denied
+	Access denied.
 	"""
 	keyWait
 	clearMsg
@@ -409,13 +409,13 @@ script 14 mmbn1 {
 		track = 108
 	"""
 	Passcode too high.
-	Second digit,
-	verification failure
+	Second digit
+	incorrect.
 	"""
 	keyWait
 	clearMsg
 		delay = 0
-	"Access denied"
+	"Access denied."
 	keyWait
 	clearMsg
 		delay = 0
@@ -434,13 +434,13 @@ script 15 mmbn1 {
 		track = 108
 	"""
 	Passcode too high.
-	First digit,
-	verification failure
+	First digit
+	incorrect.
 	"""
 	keyWait
 	clearMsg
 		delay = 0
-	"Access denied"
+	"Access denied."
 	keyWait
 	clearMsg
 		delay = 0
@@ -459,13 +459,13 @@ script 16 mmbn1 {
 		track = 108
 	"""
 	Passcode too low.
-	Second digit,
-	verification failure
+	Second digit
+	incorrect.
 	"""
 	keyWait
 	clearMsg
 		delay = 0
-	"Access denied"
+	"Access denied."
 	keyWait
 	clearMsg
 		delay = 0
@@ -484,13 +484,13 @@ script 17 mmbn1 {
 		track = 108
 	"""
 	Passcode too low.
-	First digit,
-	verification failure
+	First digit
+	incorrect.
 	"""
 	keyWait
 	clearMsg
 		delay = 0
-	"Access denied"
+	"Access denied."
 	keyWait
 	clearMsg
 		delay = 0
@@ -543,7 +543,7 @@ script 20 mmbn1 {
 	"""
 	Maximum input
 	procedure reached.
-	Verification failure
+	verification failed.
 	"""
 	keyWait
 	clearMsg
@@ -551,7 +551,7 @@ script 20 mmbn1 {
 	"""
 	Passcode has been
 	changed. First digit
-	increased
+	increased.
 	"""
 	keyWait
 	clearMsg
@@ -565,7 +565,7 @@ script 21 mmbn1 {
 	"""
 	Maximum input
 	procedure reached.
-	Verification failure
+	verification failed.
 	"""
 	keyWait
 	clearMsg
@@ -573,7 +573,7 @@ script 21 mmbn1 {
 	"""
 	Passcode has been
 	changed. First digit
-	decreased
+	decreased.
 	"""
 	keyWait
 	clearMsg
@@ -587,7 +587,7 @@ script 22 mmbn1 {
 	"""
 	Maximum input
 	procedure reached.
-	Verification failure
+	verification failed.
 	"""
 	keyWait
 	clearMsg
@@ -595,7 +595,7 @@ script 22 mmbn1 {
 	"""
 	Passcode has been
 	changed. Second
-	digit increased
+	digit increased.
 	"""
 	keyWait
 	clearMsg
@@ -609,7 +609,7 @@ script 23 mmbn1 {
 	"""
 	Maximum input
 	procedure reached.
-	Verification failure
+	verification failed.
 	"""
 	keyWait
 	clearMsg
@@ -617,7 +617,7 @@ script 23 mmbn1 {
 	"""
 	Passcode has been
 	changed. Second
-	digit decreased
+	digit decreased.
 	"""
 	keyWait
 	clearMsg
@@ -633,7 +633,7 @@ script 25 mmbn1 {
 	msgOpen
 	"""
 	Passcode accepted.
-	Lock released
+	Lock released.
 	"""
 	keyWait
 	clearMsg

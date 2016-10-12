@@ -1055,7 +1055,7 @@ script 221 mmbn1 {
 	keyWait
 	clearMsg
 		delay = 0
-	"center for the WWW"
+	"center for the WWW."
 	keyWait
 	end
 		delay = 5
@@ -1073,7 +1073,7 @@ script 222 mmbn1 {
 		delay = 0
 	"""
 	outlined in these
-	documents
+	documents.
 	"""
 	keyWait
 	end
@@ -1097,7 +1097,7 @@ script 224 mmbn1 {
 	"""
 	This machine is
 	making a high
-	buzzing sound
+	buzzing sound.
 	"""
 	keyWait
 	end
@@ -1109,7 +1109,7 @@ script 225 mmbn1 {
 	"""
 	This machine is
 	making a high
-	buzzing sound
+	buzzing sound.
 	"""
 	keyWait
 	end
@@ -1121,7 +1121,7 @@ script 226 mmbn1 {
 	"""
 	This machine is
 	making a high
-	buzzing sound
+	buzzing sound.
 	"""
 	keyWait
 	end
@@ -1133,7 +1133,7 @@ script 227 mmbn1 {
 	"""
 	This machine is
 	making a high
-	buzzing sound
+	buzzing sound.
 	"""
 	keyWait
 	end
@@ -1152,7 +1152,7 @@ script 228 mmbn1 {
 		delay = 0
 	"""
 	...nothing good,
-	you assume
+	you assume.
 	"""
 	keyWait
 	end

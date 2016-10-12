@@ -937,7 +937,7 @@ script 220 mmbn1 {
 	"""
 	A teacher's car.
 	The most popular
-	type around
+	type around.
 	"""
 	keyWait
 	clearMsg
@@ -945,7 +945,7 @@ script 220 mmbn1 {
 	"""
 	There seems to be
 	a jack in port for
-	maintenance here
+	maintenance here.
 	"""
 	keyWait
 	end
@@ -956,7 +956,7 @@ script 221 mmbn1 {
 	msgOpen
 	"""
 	A bronze statue of
-	the principal
+	the principal.
 	"""
 	keyWait
 	clearMsg
@@ -964,7 +964,7 @@ script 221 mmbn1 {
 	"""
 	It was a gift from a
 	mysterious group at
-	the school opening
+	the school opening.
 	"""
 	keyWait
 	end

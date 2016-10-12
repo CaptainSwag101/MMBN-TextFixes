@@ -404,7 +404,7 @@ script 107 mmbn1 {
 	mugshotAnimate
 		animation = 2
 	"""
-	I guess the water
+	I'll bet the water
 	will be fixed soon.
 	Wanna' look around?
 	"""

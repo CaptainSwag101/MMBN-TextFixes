@@ -444,10 +444,6 @@ script 17 mmbn1 {
 script 18 mmbn1 {
 	mugshotHide
 	msgOpen
-	"*snip,snip*"
-	keyWait
-	clearMsg
-		delay = 0
 	playerAnimate
 		animation = 30
 	checkGiveItem
@@ -1528,7 +1524,7 @@ script 75 mmbn1 {
 	"""
 	Dr.Hikari sure is
 	busy. He just went
-	off again!
+	out again!
 	"""
 	mugshotAnimate
 		animation = 1
@@ -1564,8 +1560,8 @@ script 80 mmbn1 {
 		animation = 2
 	"""
 	Glad you're still
-	OK...Was there
-	something you need?
+	OK...Did you need
+	something from me?
 	"""
 	mugshotAnimate
 		animation = 1
@@ -2146,7 +2142,7 @@ script 220 mmbn1 {
 	msgOpen
 	"""
 	Full of instant
-	dinners
+	dinners.
 	"""
 	keyWait
 	end
@@ -2158,7 +2154,7 @@ script 221 mmbn1 {
 	"""
 	It's password
 	protected. You can't
-	get in
+	get in.
 	"""
 	keyWait
 	end
@@ -2170,7 +2166,7 @@ script 222 mmbn1 {
 	"""
 	This monitor is
 	used for jack in
-	tests
+	tests.
 	"""
 	keyWait
 	end
@@ -2181,7 +2177,7 @@ script 223 mmbn1 {
 	msgOpen
 	"""
 	There are lots and
-	lots of files here
+	lots of files here.
 	"""
 	keyWait
 	end
@@ -2193,7 +2189,7 @@ script 224 mmbn1 {
 	"""
 	Files that won't
 	fit in the shelf
-	are in here
+	are put in here.
 	"""
 	keyWait
 	end
@@ -2204,7 +2200,7 @@ script 225 mmbn1 {
 	msgOpen
 	"""
 	There's nothing
-	inside
+	inside.
 	"""
 	keyWait
 	end
@@ -2216,7 +2212,7 @@ script 226 mmbn1 {
 	"""
 	A picture of a
 	father,mother,and
-	their children
+	their children.
 	"""
 	mugshotAnimate
 		animation = 1
@@ -2229,7 +2225,7 @@ script 227 mmbn1 {
 	msgOpen
 	"""
 	This is an ID
-	card reader
+	card reader.
 	"""
 	keyWait
 	end
@@ -2241,7 +2237,7 @@ script 228 mmbn1 {
 	"""
 	A newspaper.
 	Probably belongs to
-	the receptionist
+	the receptionist.
 	"""
 	keyWait
 	end

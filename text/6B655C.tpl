@@ -91,8 +91,8 @@ script 1 mmbn1 {
 	mugshotAnimate
 		animation = 2
 	"""
-	Mayl's Navi's name
-	is Roll,huh?
+	Mayl's Navi is
+	named Roll,huh?
 	"""
 	mugshotAnimate
 		animation = 1
@@ -118,8 +118,8 @@ script 5 mmbn1 {
 	mugshotAnimate
 		animation = 2
 	"""
-	Mayl's Navi's name
-	is Roll,huh?
+	Mayl's Navi is
+	named Roll,huh?
 	"""
 	mugshotAnimate
 		animation = 1

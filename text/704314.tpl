@@ -1893,7 +1893,7 @@ script 220 mmbn1 {
 	msgOpen
 	"""
 	A very large office
-	building
+	building.
 	"""
 	keyWait
 	end
@@ -1935,7 +1935,7 @@ script 222 mmbn1 {
 	msgOpen
 	"""
 	The most famous
-	florist in DenCity
+	florist in DenCity.
 	"""
 	keyWait
 	clearMsg
@@ -1943,7 +1943,7 @@ script 222 mmbn1 {
 	"""
 	Lots of beautiful
 	flowers are on
-	display
+	display.
 	"""
 	keyWait
 	end
@@ -1954,7 +1954,7 @@ script 223 mmbn1 {
 	msgOpen
 	"""
 	You can't jack in
-	to this signal
+	to this signal.
 	"""
 	keyWait
 	end
@@ -1974,7 +1974,7 @@ script 224 mmbn1 {
 	msgOpen
 	"""
 	You can jack in to
-	this signal
+	this signal.
 	"""
 	keyWait
 	clearMsg
@@ -1982,7 +1982,7 @@ script 224 mmbn1 {
 	"""
 	But there doesn't
 	seem to be any
-	reason to now
+	reason to now.
 	"""
 	keyWait
 	end
@@ -1993,7 +1993,7 @@ script 225 mmbn1 {
 	msgOpen
 	"""
 	You can jack in to
-	this signal
+	this signal.
 	"""
 	keyWait
 	end

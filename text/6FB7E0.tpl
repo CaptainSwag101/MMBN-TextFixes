@@ -33,7 +33,7 @@ script 0 mmbn1 {
 	"""
 	Neutral. Each type
 	is stronger than
-	others against one
+	others against one.
 	"""
 	mugshotAnimate
 		animation = 1
@@ -646,8 +646,8 @@ script 24 mmbn1 {
 	mugshotAnimate
 		animation = 2
 	"""
-	I can't get milk
-	for my baby!
+	I can't get water
+	for my child!
 	"""
 	mugshotAnimate
 		animation = 1
@@ -2436,7 +2436,7 @@ script 220 mmbn1 {
 	"""
 	There is a wide
 	variety of drinks
-	inside
+	inside.
 	"""
 	keyWait
 	end
@@ -2448,7 +2448,7 @@ script 221 mmbn1 {
 	"""
 	A broken vending
 	machine. There's a
-	jack in port here
+	jack in port here.
 	"""
 	keyWait
 	end
@@ -2460,12 +2460,12 @@ script 222 mmbn1 {
 	"""
 	It only shows a
 	test pattern and
-	it's beeping
+	it's beeping.
 	"""
 	keyWait
 	clearMsg
 		delay = 0
-	"Somehow creepy"
+	"Somehow creepy."
 	keyWait
 	end
 		delay = 5
@@ -2476,7 +2476,7 @@ script 223 mmbn1 {
 	"""
 	Please smoke only
 	in the smoking
-	area
+	area.
 	"""
 	keyWait
 	end
@@ -2488,7 +2488,7 @@ script 224 mmbn1 {
 	"""
 	“If you desire an
 	appointment,write
-	your name here“
+	your name here.“
 	"""
 	keyWait
 	end
@@ -2500,7 +2500,7 @@ script 225 mmbn1 {
 	"""
 	This is a modern
 	TV with a jack in
-	port
+	port.
 	"""
 	keyWait
 	end
@@ -2512,7 +2512,7 @@ script 226 mmbn1 {
 	"""
 	There are several
 	posters about the
-	environment here
+	environment here.
 	"""
 	keyWait
 	end
@@ -2523,7 +2523,7 @@ script 227 mmbn1 {
 	msgOpen
 	"""
 	Only staff members
-	may go in there
+	may go in there.
 	"""
 	keyWait
 	end
@@ -2535,7 +2535,7 @@ script 228 mmbn1 {
 	"""
 	Somebody has
 	bought all of
-	the drinks
+	the drinks.
 	"""
 	keyWait
 	end

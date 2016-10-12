@@ -699,7 +699,7 @@ script 220 mmbn1 {
 	"""
 	Even more securely
 	locked than the
-	other doors so far
+	other doors so far.
 	"""
 	keyWait
 	clearMsg

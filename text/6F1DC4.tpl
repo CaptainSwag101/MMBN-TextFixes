@@ -440,8 +440,7 @@ script 20 mmbn1 {
 script 21 mmbn1 {
 	msgOpen
 	"""
-	Someone has locked
-	the door!
+	The door won't open!
 	"""
 	mugshotAnimate
 		animation = 1
@@ -488,8 +487,7 @@ script 25 mmbn1 {
 script 26 mmbn1 {
 	msgOpen
 	"""
-	Someone has locked
-	the door!
+	The door won't open!
 	"""
 	keyWait
 	end
@@ -1386,7 +1384,7 @@ script 220 mmbn1 {
 	"""
 	A simple touch like
 	this vase really
-	cheers the place up
+	cheers the place up.
 	"""
 	keyWait
 	end
@@ -1435,7 +1433,7 @@ script 222 mmbn1 {
 	"""
 	The refrigerator
 	is filled with
-	food
+	food.
 	"""
 	keyWait
 	end
@@ -1472,9 +1470,8 @@ script 223 mmbn1 {
 script 224 mmbn1 {
 	msgOpen
 	"""
-	You don't think it
-	will catch fire
-	again
+	Hopefully it won't
+	catch fire again...
 	"""
 	keyWait
 	end
@@ -1485,7 +1482,7 @@ script 225 mmbn1 {
 	msgOpen
 	"""
 	Mom loves to collect
-	all of these plates
+	all of these plates.
 	"""
 	keyWait
 	end
@@ -1497,7 +1494,7 @@ script 226 mmbn1 {
 	"""
 	This TV is too old
 	to have a jack in
-	port
+	port.
 	"""
 	keyWait
 	end
@@ -1509,7 +1506,7 @@ script 227 mmbn1 {
 	"""
 	A very attractive
 	stand. Chosen of
-	course by Mom
+	course by Mom.
 	"""
 	keyWait
 	end
@@ -1521,7 +1518,7 @@ script 228 mmbn1 {
 	"""
 	This panel controls
 	all of the electric
-	items in the house
+	items in the house.
 	"""
 	keyWait
 	end

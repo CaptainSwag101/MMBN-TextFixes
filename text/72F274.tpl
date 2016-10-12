@@ -121,7 +121,7 @@ script 6 mmbn1 {
 	msgOpen
 	mugshotAnimate
 		animation = 2
-	"Load Chaud,sir!"
+	"Lord Chaud,sir!"
 	mugshotAnimate
 		animation = 1
 	keyWait

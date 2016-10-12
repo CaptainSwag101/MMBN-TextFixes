@@ -318,12 +318,12 @@ script 19 mmbn1 {
 	"""
 	Passcode too high.
 	Second digit,
-	verification failure
+	verification failed.
 	"""
 	keyWait
 	clearMsg
 		delay = 0
-	"Access denied"
+	"Access denied."
 	keyWait
 	clearMsg
 		delay = 0
@@ -343,12 +343,12 @@ script 20 mmbn1 {
 	"""
 	Passcode too high.
 	First digit,
-	verification failure
+	verification failed.
 	"""
 	keyWait
 	clearMsg
 		delay = 0
-	"Access denied"
+	"Access denied."
 	keyWait
 	clearMsg
 		delay = 0
@@ -368,12 +368,12 @@ script 21 mmbn1 {
 	"""
 	Passcode too low.
 	Second digit,
-	verification failure
+	verification failed.
 	"""
 	keyWait
 	clearMsg
 		delay = 0
-	"Access denied"
+	"Access denied."
 	keyWait
 	clearMsg
 		delay = 0
@@ -393,12 +393,12 @@ script 22 mmbn1 {
 	"""
 	Passcode too low.
 	First digit,
-	verification failure
+	verification failed.
 	"""
 	keyWait
 	clearMsg
 		delay = 0
-	"Access denied"
+	"Access denied."
 	keyWait
 	clearMsg
 		delay = 0
@@ -451,7 +451,7 @@ script 25 mmbn1 {
 	"""
 	Maximum input
 	procedure reached.
-	Verification failure
+	verification failed.
 	"""
 	keyWait
 	clearMsg
@@ -473,7 +473,7 @@ script 26 mmbn1 {
 	"""
 	Maximum input
 	procedure reached.
-	Verification failure
+	verification failed.
 	"""
 	keyWait
 	clearMsg
@@ -495,7 +495,7 @@ script 27 mmbn1 {
 	"""
 	Maximum input
 	procedure reached.
-	Verification failure
+	verification failed.
 	"""
 	keyWait
 	clearMsg
@@ -517,7 +517,7 @@ script 28 mmbn1 {
 	"""
 	Maximum input
 	procedure reached.
-	Verification failure
+	verification failed.
 	"""
 	keyWait
 	clearMsg

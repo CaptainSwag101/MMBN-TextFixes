@@ -1788,7 +1788,7 @@ script 221 mmbn1 {
 	"""
 	Looks pretty well
 	locked up. There's
-	lots of cash inside
+	lots of cash inside.
 	"""
 	keyWait
 	end
@@ -1799,7 +1799,7 @@ script 222 mmbn1 {
 	msgOpen
 	"""
 	Lots of chips are
-	lined up inside
+	lined up inside.
 	"""
 	keyWait
 	end
@@ -1811,7 +1811,7 @@ script 223 mmbn1 {
 	"""
 	An amazing array
 	of chips. Makes you
-	want to buy some
+	want to buy some.
 	"""
 	keyWait
 	end
@@ -1839,7 +1839,7 @@ script 226 mmbn1 {
 	"""
 	The mascot Navi
 	of Higsby's shop,
-	“NumberMan“
+	“NumberMan“.
 	"""
 	keyWait
 	end

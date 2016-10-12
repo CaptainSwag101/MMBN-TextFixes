@@ -1222,7 +1222,7 @@ script 220 mmbn1 {
 	"""
 	 repair
 	shop. They are
-	having a sale now
+	having a sale now.
 	"""
 	keyWait
 	end
@@ -1234,7 +1234,7 @@ script 221 mmbn1 {
 	"""
 	Wonderful aromas
 	are wafting from
-	this bakery
+	this bakery.
 	"""
 	keyWait
 	end
@@ -1245,7 +1245,7 @@ script 222 mmbn1 {
 	msgOpen
 	"""
 	You can't jack in
-	to this signal
+	to this signal.
 	"""
 	keyWait
 	end
@@ -1265,14 +1265,14 @@ script 223 mmbn1 {
 	msgOpen
 	"""
 	This signal has a
-	jack in port
+	jack in port.
 	"""
 	keyWait
 	clearMsg
 		delay = 0
 	"""
 	You don't need to
-	jack in now,though
+	jack in now,though.
 	"""
 	keyWait
 	end
@@ -1283,7 +1283,7 @@ script 224 mmbn1 {
 	msgOpen
 	"""
 	This signal has a
-	jack in port
+	jack in port.
 	"""
 	keyWait
 	end

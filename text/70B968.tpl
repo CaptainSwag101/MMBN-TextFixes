@@ -1799,7 +1799,7 @@ script 221 mmbn1 {
 	"""
 	Delicious looking
 	food is laid out
-	here
+	here.
 	"""
 	keyWait
 	end
@@ -1811,7 +1811,7 @@ script 222 mmbn1 {
 	"""
 	A line of PETs made
 	from recycled
-	plastic bottles
+	plastic bottles.
 	"""
 	keyWait
 	clearMsg
@@ -1839,7 +1839,7 @@ script 223 mmbn1 {
 		delay = 0
 	"""
 	remade as the new
-	PETs
+	PETs.
 	"""
 	keyWait
 	end
@@ -1850,7 +1850,7 @@ script 224 mmbn1 {
 	msgOpen
 	"""
 	A cart used to take
-	food to the tables
+	food to the tables.
 	"""
 	keyWait
 	end

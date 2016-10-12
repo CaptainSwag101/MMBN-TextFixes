@@ -653,7 +653,7 @@ script 184 mmbn1s {
 }
 script 185 mmbn1 {
 	msgOpen
-	"There's no response"
+	"There's no response."
 	keyWait
 	end
 		delay = 0

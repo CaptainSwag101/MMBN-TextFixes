@@ -572,7 +572,7 @@ script 29 mmbn1 {
 	"\n"
 	mugshotAnimate
 		animation = 2
-	"Not working"
+	"Not working."
 	mugshotAnimate
 		animation = 1
 	keyWait
@@ -718,7 +718,7 @@ script 35 mmbn1 {
 	mugshotAnimate
 		animation = 2
 	"""
-	Did you get the
+	Did you count the
 	number of books?
 	"""
 	mugshotAnimate
@@ -752,7 +752,7 @@ script 35 mmbn1 {
 		animation = 2
 	"""
 	Call me again when
-	you find out!
+	you count them!
 	"""
 	mugshotAnimate
 		animation = 1
@@ -921,7 +921,7 @@ script 39 mmbn1 {
 	"\n"
 	mugshotAnimate
 		animation = 2
-	"Not working"
+	"Not working."
 	mugshotAnimate
 		animation = 1
 	keyWait
@@ -1278,7 +1278,7 @@ script 49 mmbn1 {
 	"\n"
 	mugshotAnimate
 		animation = 2
-	"Not working"
+	"Not working."
 	mugshotAnimate
 		animation = 1
 	keyWait

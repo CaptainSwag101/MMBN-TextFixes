@@ -870,7 +870,7 @@ script 220 mmbn1 {
 	"""
 	This toy was popular
 	last year. It has a
-	jack in port
+	jack in port.
 	"""
 	keyWait
 	end
@@ -879,7 +879,7 @@ script 220 mmbn1 {
 }
 script 221 mmbn1 {
 	msgOpen
-	"The power is off"
+	"The power is off."
 	keyWait
 	end
 		delay = 5
@@ -889,7 +889,7 @@ script 222 mmbn1 {
 	msgOpen
 	"""
 	There's nothing in
-	this trash can
+	this trash can.
 	"""
 	keyWait
 	end
@@ -901,7 +901,7 @@ script 223 mmbn1 {
 	"""
 	A big mirror.
 	Mayl uses it every
-	morning
+	morning.
 	"""
 	keyWait
 	end
@@ -913,7 +913,7 @@ script 224 mmbn1 {
 	"""
 	Mayl's bed is at
 	the top of this
-	ladder
+	ladder.
 	"""
 	keyWait
 	end

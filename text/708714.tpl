@@ -920,7 +920,7 @@ script 220 mmbn1 {
 	msgOpen
 	"""
 	A summer school
-	sign
+	sign.
 	"""
 	keyWait
 	end
@@ -931,7 +931,7 @@ script 221 mmbn1 {
 	msgOpen
 	"""
 	You can't jack in
-	to this signal
+	to this signal.
 	"""
 	keyWait
 	end
@@ -951,14 +951,14 @@ script 222 mmbn1 {
 	msgOpen
 	"""
 	This signal has a
-	jack in port
+	jack in port.
 	"""
 	keyWait
 	clearMsg
 		delay = 0
 	"""
 	You don't need to
-	jack in now,though
+	jack in now,though.
 	"""
 	keyWait
 	end
@@ -969,7 +969,7 @@ script 223 mmbn1 {
 	msgOpen
 	"""
 	This signal has a
-	jack in port
+	jack in port.
 	"""
 	keyWait
 	end

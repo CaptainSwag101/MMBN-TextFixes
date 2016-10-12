@@ -1308,7 +1308,7 @@ script 220 mmbn1 {
 	"""
 	Another popular
 	toy. You can jack
-	into some of these
+	into some of these.
 	"""
 	keyWait
 	end
@@ -1319,7 +1319,7 @@ script 221 mmbn1 {
 	msgOpen
 	"""
 	An antique cupboard
-	filled with china
+	filled with china.
 	"""
 	keyWait
 	end
@@ -1330,7 +1330,7 @@ script 222 mmbn1 {
 	msgOpen
 	"""
 	It's filled with
-	small dolls
+	small dolls.
 	"""
 	keyWait
 	end
@@ -1341,7 +1341,7 @@ script 223 mmbn1 {
 	msgOpen
 	"""
 	A small desk made
-	to Yai's size
+	to Yai's size.
 	"""
 	keyWait
 	end
@@ -1352,14 +1352,14 @@ script 224 mmbn1 {
 	msgOpen
 	"""
 	A beautiful
-	telephone
+	telephone.
 	"""
 	keyWait
 	clearMsg
 		delay = 0
 	"""
 	Looks like there's
-	a jack in port
+	a jack in port.
 	"""
 	keyWait
 	end
@@ -1370,8 +1370,8 @@ script 225 mmbn1 {
 	msgOpen
 	"""
 	A very warm-looking
-	down blanket. Must
-	feel great in winter
+	down blanket. It
+	looks so comfy!
 	"""
 	keyWait
 	end
@@ -1395,7 +1395,7 @@ script 227 mmbn1 {
 	"""
 	A portrait of Yai.
 	Not in the best
-	of taste
+	of taste.
 	"""
 	keyWait
 	clearMsg
@@ -1403,7 +1403,7 @@ script 227 mmbn1 {
 	"""
 	There's a jack in
 	port under the
-	portrait
+	portrait.
 	"""
 	keyWait
 	end
@@ -1415,7 +1415,7 @@ script 228 mmbn1 {
 	"""
 	A gorgeous mirror.
 	Yai gets ready in
-	the morning here
+	the morning here.
 	"""
 	keyWait
 	end
@@ -1426,7 +1426,7 @@ script 229 mmbn1 {
 	msgOpen
 	"""
 	The head of some
-	mysterious animal
+	mysterious animal.
 	"""
 	keyWait
 	end

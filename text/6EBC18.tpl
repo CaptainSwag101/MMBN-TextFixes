@@ -74,7 +74,7 @@ script 1 mmbn1 {
 }
 script 2 mmbn1 {
 	msgOpen
-	"Lan helps Ms.Mari"
+	"Lan helps Ms.Mari."
 	keyWait
 	msgClose
 	flagSet
@@ -1159,7 +1159,7 @@ script 220 mmbn1 {
 	"""
 	A huge ball that's
 	used on field day.
-	It looks lonely here
+	Looks lonely here.
 	"""
 	keyWait
 	end
@@ -1171,7 +1171,7 @@ script 221 mmbn1 {
 	"""
 	There is a lot of
 	equipment used for
-	gym classes here
+	gym classes here.
 	"""
 	keyWait
 	end
@@ -1183,7 +1183,7 @@ script 222 mmbn1 {
 	"""
 	Some old sports
 	equipment. Smells
-	pretty bad
+	pretty bad.
 	"""
 	keyWait
 	end
@@ -1234,7 +1234,7 @@ script 224 mmbn1 {
 	msgOpen
 	"""
 	There's nothing else
-	interesting here
+	interesting here.
 	"""
 	keyWait
 	end
@@ -1246,7 +1246,7 @@ script 225 mmbn1 {
 	"""
 	Filled with balls
 	to the point of
-	overflowing
+	overflowing.
 	"""
 	keyWait
 	end
@@ -1257,7 +1257,7 @@ script 226 mmbn1 {
 	msgOpen
 	"""
 	A box full of
-	toilet paper
+	toilet paper.
 	"""
 	keyWait
 	end
@@ -1266,7 +1266,7 @@ script 226 mmbn1 {
 }
 script 227 mmbn1 {
 	msgOpen
-	"A box of floor wax"
+	"A box of floor wax."
 	keyWait
 	end
 		delay = 5

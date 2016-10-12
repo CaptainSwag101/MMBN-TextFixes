@@ -1493,7 +1493,7 @@ script 220 mmbn1 {
 	msgOpen
 	"""
 	You can't jack in
-	to this signal
+	to this signal.
 	"""
 	keyWait
 	end
@@ -1513,7 +1513,7 @@ script 221 mmbn1 {
 	msgOpen
 	"""
 	This signal has a
-	jack in port
+	jack in port.
 	"""
 	keyWait
 	clearMsg
@@ -1521,7 +1521,7 @@ script 221 mmbn1 {
 	"""
 	You don't have any
 	reason to jack in
-	now,though
+	now,though.
 	"""
 	keyWait
 	end
@@ -1532,7 +1532,7 @@ script 222 mmbn1 {
 	msgOpen
 	"""
 	Currently under
-	renovation
+	renovation.
 	"""
 	keyWait
 	end
@@ -1554,7 +1554,7 @@ script 224 mmbn1 {
 	msgOpen
 	"""
 	You can jack in
-	to this signal
+	to this signal.
 	"""
 	keyWait
 	end

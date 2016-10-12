@@ -878,7 +878,7 @@ script 220 mmbn1 {
 	"""
 	when scratched.
 	You can jack in
-	to this board
+	to this board.
 	"""
 	keyWait
 	end
@@ -889,7 +889,7 @@ script 221 mmbn1 {
 	msgOpen
 	"""
 	Group 3 has
-	cleaning duty
+	cleaning duty.
 	"""
 	keyWait
 	end
@@ -901,7 +901,7 @@ script 222 mmbn1 {
 	"""
 	5th graders have
 	classes all through
-	6th period
+	6th period.
 	"""
 	keyWait
 	end
@@ -916,7 +916,7 @@ script 223 mmbn1 {
 	msgOpen
 	"""
 	There are many books
-	here
+	here.
 	"""
 	keyWait
 	clearMsg
@@ -961,7 +961,7 @@ script 223 mmbn1 {
 }
 script 224 mmbn1 {
 	msgOpen
-	"Nothing else there"
+	"Nothing else there."
 	keyWait
 	end
 		delay = 5
@@ -972,7 +972,7 @@ script 225 mmbn1 {
 	"""
 	Putting books near
 	the window makes
-	the covers fade
+	the covers fade.
 	"""
 	keyWait
 	end
@@ -984,7 +984,7 @@ script 226 mmbn1 {
 	"""
 	A lot of previous
 	students have left
-	graffiti here
+	graffiti here.
 	"""
 	keyWait
 	end
@@ -996,7 +996,7 @@ script 227 mmbn1 {
 	"""
 	You can learn a
 	lot about ants with
-	an ant farm
+	an ant farm.
 	"""
 	keyWait
 	end
@@ -1017,7 +1017,7 @@ script 228 mmbn1 {
 }
 script 229 mmbn1 {
 	msgOpen
-	"The teacher's desk"
+	"The teacher's desk."
 	keyWait
 	end
 		delay = 5

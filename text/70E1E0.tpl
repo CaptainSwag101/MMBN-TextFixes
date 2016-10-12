@@ -844,7 +844,7 @@ script 220 mmbn1 {
 	"""
 	The computer which
 	controls the
-	generator
+	generator.
 	"""
 	keyWait
 	end
@@ -856,7 +856,7 @@ script 221 mmbn1 {
 	"""
 	Normally,the
 	generator is run
-	from here
+	from here.
 	"""
 	keyWait
 	end
@@ -868,7 +868,7 @@ script 222 mmbn1 {
 	"""
 	This monitor has
 	a jack in port for
-	routine maintenance
+	routine maintenance.
 	"""
 	keyWait
 	end
@@ -892,7 +892,7 @@ script 223 mmbn1 {
 }
 script 224 mmbn1 {
 	msgOpen
-	"It's locked"
+	"It's locked."
 	keyWait
 	end
 		delay = 5

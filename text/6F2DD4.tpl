@@ -17,7 +17,7 @@ script 0 mmbn1 {
 		jumpIfNone = continue
 		jumpIfSome = continue
 	"""
-	Lan got his
+	Lan grabbed his
 	“
 	"""
 	printItem
@@ -34,7 +34,7 @@ script 0 mmbn1 {
 	"""
 	Press START to see
 	chip data and read
-	mail
+	mail.
 	"""
 	keyWait
 	clearMsg
@@ -1230,7 +1230,7 @@ script 220 mmbn1 {
 	msgOpen
 	"""
 	Lan's secret tools
-	are hidden here
+	are hidden here.
 	"""
 	keyWait
 	end
@@ -1242,7 +1242,7 @@ script 221 mmbn1 {
 	"""
 	Lots of things that
 	Lan never uses,but
-	can't throw away
+	can't throw away.
 	"""
 	keyWait
 	end
@@ -1287,9 +1287,9 @@ script 223 mmbn1 {
 script 224 mmbn1 {
 	msgOpen
 	"""
-	Your PC. If you jack
-	in here,you can send
-	MegaMan into the net
+	Your PC. Jack in
+    to send MegaMan
+    into the net.
 	"""
 	keyWait
 	end
@@ -1300,7 +1300,7 @@ script 225 mmbn1 {
 	msgOpen
 	"""
 	It's still a little
-	early to go to bed
+	early to go to bed.
 	"""
 	keyWait
 	end

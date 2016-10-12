@@ -45,7 +45,7 @@ script 1 mmbn1 {
 	"""
 	Encyclopedias are
 	lined up on this
-	shelf
+	shelf.
 	"""
 	keyWait
 	end
@@ -57,7 +57,7 @@ script 2 mmbn1 {
 	"""
 	Photo and picture
 	books are on this
-	shelf
+	shelf.
 	"""
 	keyWait
 	end
@@ -69,7 +69,7 @@ script 3 mmbn1 {
 	"""
 	Reference books
 	are lined up on
-	this shelf
+	this shelf.
 	"""
 	keyWait
 	end
@@ -81,7 +81,7 @@ script 4 mmbn1 {
 	"""
 	Reference books
 	are lined up on
-	this shelf
+	this shelf.
 	"""
 	keyWait
 	end
@@ -93,7 +93,7 @@ script 5 mmbn1 {
 	"""
 	Story books
 	are lined up on
-	this shelf
+	this shelf.
 	"""
 	keyWait
 	end
@@ -105,7 +105,7 @@ script 6 mmbn1 {
 	"""
 	Story books
 	are lined up on
-	this shelf
+	this shelf.
 	"""
 	keyWait
 	end
@@ -124,7 +124,7 @@ script 7 mmbn1 {
 	"""
 	 manuals
 	are lined up on
-	this shelf
+	this shelf.
 	"""
 	keyWait
 	end
@@ -136,7 +136,7 @@ script 8 mmbn1 {
 	"""
 	Something is
 	stuck between the
-	books
+	books...
 	"""
 	keyWait
 	clearMsg
@@ -195,7 +195,7 @@ script 15 mmbn1 {
 	"""
 	Encyclopedias are
 	lined up on this
-	shelf
+	shelf.
 	"""
 	keyWait
 	clearMsg
@@ -203,7 +203,7 @@ script 15 mmbn1 {
 	"""
 	There are 30 volumes
 	of History of the
-	World here
+	World here.
 	"""
 	keyWait
 	end
@@ -1052,7 +1052,7 @@ script 220 mmbn1 {
 	"""
 	You can look up any
 	book you want with
-	this machine
+	this machine.
 	"""
 	keyWait
 	end
@@ -1064,14 +1064,14 @@ script 221 mmbn1 {
 	"""
 	Students who loaned
 	the most books are
-	listed here
+	listed here.
 	"""
 	keyWait
 	clearMsg
 		delay = 0
 	"""
 	Yai is number
-	one by far
+	one by far.
 	"""
 	keyWait
 	end
@@ -1113,7 +1113,7 @@ script 225 mmbn1 {
 	"""
 	This PC manages
 	who borrowed what
-	books
+	books.
 	"""
 	keyWait
 	end

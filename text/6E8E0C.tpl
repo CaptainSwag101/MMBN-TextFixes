@@ -1141,15 +1141,28 @@ script 220 mmbn1 {
 	msgOpen
 	"""
 	Somebody has written
-	in a corner
+	in a corner:
 	“I love teacher“
 	"""
 	keyWait
 	clearMsg
-		delay = 0
-	"""
+        delay = 0
+    "."
+	waitSkip
+		frames = 30
+	"."
+	waitSkip
+		frames = 30
+	"."
+	waitSkip
+		frames = 30
+	"gross."
+    keyWait
+	clearMsg
+        delay = 0
+    """
 	You can jack in
-	here
+	here.
 	"""
 	keyWait
 	end
@@ -1160,7 +1173,7 @@ script 221 mmbn1 {
 	msgOpen
 	"""
 	There are picture
-	books here
+	books here.
 	"""
 	keyWait
 	clearMsg
@@ -1179,7 +1192,7 @@ script 222 mmbn1 {
 	"""
 	These desks are much
 	smaller than the 5th
-	graders' desks
+	graders' desks.
 	"""
 	keyWait
 	end
@@ -1197,7 +1210,7 @@ script 223 mmbn1 {
 		delay = 0
 	"""
 	Don't forget the
-	beauty of a flower
+	beauty of a flower.
 	"""
 	keyWait
 	end
@@ -1209,7 +1222,7 @@ script 224 mmbn1 {
 	"""
 	Morning glories
 	tend to creep up
-	anything nearby
+	anything nearby.
 	"""
 	keyWait
 	end
@@ -1221,7 +1234,7 @@ script 225 mmbn1 {
 	"""
 	You can't eat seeds
 	from morning glories.
-	Try sunflower seeds
+	Try sunflower seeds.
 	"""
 	keyWait
 	end
@@ -1232,7 +1245,7 @@ script 226 mmbn1 {
 	msgOpen
 	"""
 	This book doesn't
-	have many pictures
+	have many pictures.
 	"""
 	keyWait
 	clearMsg
@@ -1251,7 +1264,7 @@ script 227 mmbn1 {
 	msgOpen
 	"""
 	This is a teacher's
-	desk
+	desk.
 	"""
 	keyWait
 	end
@@ -1296,7 +1309,7 @@ script 229 mmbn1 {
 	"""
 	A schedule for
 	watering the
-	morning glories
+	morning glories.
 	"""
 	keyWait
 	end

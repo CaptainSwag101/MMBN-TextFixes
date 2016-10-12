@@ -356,7 +356,7 @@ script 45 mmbn1 {
 		animation = 2
 	"""
 	Call me again when
-	you find out!
+	you have!
 	"""
 	mugshotAnimate
 		animation = 1
@@ -525,7 +525,7 @@ script 49 mmbn1 {
 	"\n"
 	mugshotAnimate
 		animation = 2
-	"Not working"
+	"Not working."
 	mugshotAnimate
 		animation = 1
 	keyWait

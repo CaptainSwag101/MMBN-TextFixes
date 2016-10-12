@@ -2090,14 +2090,14 @@ script 220 mmbn1 {
 	"""
 	You're not sure if
 	you can solve this
-	math problem
+	math problem.
 	"""
 	keyWait
 	clearMsg
 		delay = 0
 	"""
 	You can jack in
-	to this black board
+	to this black board.
 	"""
 	keyWait
 	end
@@ -2109,7 +2109,7 @@ script 221 mmbn1 {
 	"""
 	Unlike the desks at
 	your school,this one
-	has no graffiti
+	has no graffiti.
 	"""
 	keyWait
 	end
@@ -2170,7 +2170,7 @@ script 223 mmbn1 {
 }
 script 224 mmbn1 {
 	msgOpen
-	"There's nothing else"
+	"There's nothing else."
 	keyWait
 	end
 		delay = 5
@@ -2181,14 +2181,14 @@ script 225 mmbn1 {
 	"""
 	It's fun to look at
 	the classroom from
-	here
+	here.
 	"""
 	keyWait
 	clearMsg
 		delay = 0
 	"""
 	Makes you feel like
-	a teacher
+	a teacher.
 	"""
 	keyWait
 	end

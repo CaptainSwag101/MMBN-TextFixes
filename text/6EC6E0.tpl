@@ -300,7 +300,7 @@ script 15 mmbn1 {
 	mugshotAnimate
 		animation = 2
 	"""
-	Yuri has gone off
+	Yuri has gone out
 	again! At a time
 	like this!!
 	"""
@@ -928,7 +928,7 @@ script 220 mmbn1 {
 	"""
 	This is the server
 	for the school
-	network
+	network.
 	"""
 	keyWait
 	end
@@ -939,7 +939,7 @@ script 221 mmbn1 {
 	msgOpen
 	"""
 	A graph of net
-	crime rates
+	crime rates.
 	"""
 	keyWait
 	clearMsg
@@ -947,7 +947,7 @@ script 221 mmbn1 {
 	"""
 	Crime was falling,
 	but is now on the
-	rise again
+	rise again.
 	"""
 	keyWait
 	end
@@ -967,7 +967,7 @@ script 223 mmbn1 {
 	"""
 	Ah,nothing like
 	the aroma of fresh
-	coffee
+	coffee.
 	"""
 	keyWait
 	end
@@ -978,7 +978,7 @@ script 224 mmbn1 {
 	msgOpen
 	"""
 	The class roll is
-	listed here
+	listed here.
 	"""
 	keyWait
 	end
@@ -1001,7 +1001,7 @@ script 226 mmbn1 {
 	"""
 	There are some very
 	difficult books
-	lined up here
+	lined up here.
 	"""
 	keyWait
 	end
@@ -1013,7 +1013,7 @@ script 227 mmbn1 {
 	"""
 	The manual for the
 	server. Looks pretty
-	technical
+	technical.
 	"""
 	keyWait
 	end
@@ -1024,7 +1024,7 @@ script 228 mmbn1 {
 	msgOpen
 	"""
 	The door is locked
-	and won't open
+	and won't open.
 	"""
 	keyWait
 	end
@@ -1036,7 +1036,7 @@ script 229 mmbn1 {
 	"""
 	It's probably not a
 	good idea to open
-	a teacher's desk
+	a teacher's desk.
 	"""
 	keyWait
 	end

@@ -1757,7 +1757,7 @@ script 220 mmbn1 {
 	"""
 	Securely locked.
 	You push and pull to
-	no avail
+	no avail.
 	"""
 	keyWait
 	end
@@ -1771,14 +1771,14 @@ script 221 mmbn1 {
 		jumpIfInRange = 223
 		jumpIfOutOfRange = continue
 	msgOpen
-	"Securely locked"
+	"Securely locked."
 	keyWait
 	clearMsg
 		delay = 0
 	"""
 	You'll need to
 	unlock it from
-	inside the network
+	inside the network.
 	"""
 	keyWait
 	end
@@ -1797,7 +1797,7 @@ script 223 mmbn1 {
 	msgOpen
 	"""
 	Only employees are
-	allowed in here
+	allowed in here.
 	"""
 	keyWait
 	end

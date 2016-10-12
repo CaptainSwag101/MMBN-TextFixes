@@ -24,14 +24,14 @@ script 1 mmbn1 {
 	"""
 	Program for making
 	ice inside the net.
-	(charges left:
+	Charges left:
 	"""
 	printItemAmount
 		minLength = 0
 		padZeros = false
 		padLeft = false
 		item = 1
-	")"
+	"."
 	waitHold
 	"  "
 }
@@ -42,8 +42,9 @@ script 2 mmbn1 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Warning: This water
-	gun is not a toy!
+	Note: This water gun
+	is a toy. Do not use
+    to put out fires!
 	"""
 	waitHold
 	"  "
@@ -83,7 +84,7 @@ script 5 mmbn1 {
 		delay = 0
 	msgOpenQuick
 	"""
-	Knob program for
+	Knob code for
 	the faucet program
 	on the net.
 	"""
@@ -112,7 +113,7 @@ script 7 mmbn1 {
 	msgOpenQuick
 	"""
 	Response to Mayl's
-	mail:“I'll go
+	mail: “I'll go
 	shopping with you!“
 	"""
 	waitHold
@@ -141,14 +142,14 @@ script 9 mmbn1 {
 	"""
 	Battery program for
 	lights on the net.
-	(charges left:
+	Charges left:
 	"""
 	printItemAmount
 		minLength = 0
 		padZeros = false
 		padLeft = false
 		item = 80
-	")"
+	"."
 	waitHold
 	"  "
 }
@@ -161,14 +162,14 @@ script 10 mmbn1 {
 	"""
 	Battery program for
 	lights on the net.
-	(charges left:
+	Charges left:
 	"""
 	printItemAmount
 		minLength = 0
 		padZeros = false
 		padLeft = false
 		item = 81
-	")"
+	"."
 	waitHold
 	"  "
 }
@@ -181,14 +182,14 @@ script 11 mmbn1 {
 	"""
 	Battery program for
 	lights on the net.
-	(charges left:
+	Charges left:
 	"""
 	printItemAmount
 		minLength = 0
 		padZeros = false
 		padLeft = false
 		item = 82
-	")"
+	"."
 	waitHold
 	"  "
 }
@@ -201,14 +202,14 @@ script 12 mmbn1 {
 	"""
 	Battery program for
 	lights on the net.
-	(charges left:
+	Charges left:
 	"""
 	printItemAmount
 		minLength = 0
 		padZeros = false
 		padLeft = false
 		item = 83
-	")"
+	"."
 	waitHold
 	"  "
 }
@@ -221,14 +222,14 @@ script 13 mmbn1 {
 	"""
 	Battery program for
 	lights on the net.
-	(charges left:
+	Charges left:
 	"""
 	printItemAmount
 		minLength = 0
 		padZeros = false
 		padLeft = false
 		item = 84
-	")"
+	"."
 	waitHold
 	"  "
 }

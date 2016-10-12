@@ -1083,7 +1083,7 @@ script 220 mmbn1 {
 	msgOpen
 	"""
 	This escalator only
-	goes down
+	goes down.
 	"""
 	keyWait
 	end
@@ -1095,7 +1095,7 @@ script 221 mmbn1 {
 	"""
 	This shop has the
 	best selection in
-	Dentown station
+	Dentown station.
 	"""
 	keyWait
 	end
@@ -1134,7 +1134,7 @@ script 223 mmbn1 {
 	"""
 	in here instantly
 	creates recycled
-	paper
+	paper.
 	"""
 	keyWait
 	end

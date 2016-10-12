@@ -1211,7 +1211,7 @@ script 220 mmbn1 {
 	"""
 	A large vase...
 	But not just a
-	normal vase
+	normal vase.
 	"""
 	keyWait
 	clearMsg
@@ -1230,14 +1230,14 @@ script 221 mmbn1 {
 	"""
 	Decorated with
 	scenes of rivers
-	and mountains
+	and mountains.
 	"""
 	keyWait
 	clearMsg
 		delay = 0
 	"""
 	Looks very
-	expensive
+	expensive.
 	"""
 	keyWait
 	end
@@ -1248,7 +1248,7 @@ script 222 mmbn1 {
 	msgOpen
 	"""
 	Trash to some,
-	treasure to others
+	treasure to others.
 	"""
 	keyWait
 	end
@@ -1260,7 +1260,7 @@ script 223 mmbn1 {
 	"""
 	Only employees
 	are allowed in the
-	back
+	back.
 	"""
 	keyWait
 	end
@@ -1271,7 +1271,7 @@ script 224 mmbn1 {
 	msgOpen
 	"""
 	Not an antique,but
-	very well used
+	very well used.
 	"""
 	keyWait
 	clearMsg
@@ -1279,7 +1279,7 @@ script 224 mmbn1 {
 	"""
 	Looking carefully,
 	you discover a jack
-	in port
+	in port.
 	"""
 	keyWait
 	end
